@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "804277950361",
+    "firebase_url": "https://signup-f3356.firebaseio.com",
+    "project_id": "signup-f3356",
+    "storage_bucket": "signup-f3356.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804277950361:android:f31b27fa88d63425f52508",
+        "android_client_info": {
+          "package_name": "com.example.signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804277950361-bsvq1n5l2j670jtn77a3qcgrbajkv1b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc8zkCVWM6yWKM2iIHqjw0_8bM3NRpFSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804277950361-bsvq1n5l2j670jtn77a3qcgrbajkv1b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
